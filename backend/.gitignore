@@ -1,1 +1,3 @@
 node_modules
+jest.config.js
+src/database/test.sqlite
