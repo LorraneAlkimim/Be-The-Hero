@@ -32,12 +32,12 @@ export default function Incidents() {
 
     setLoading(true);
 
-    const response = await api.get('incidents', {
+    const response = await api.get('/incidents', {
       params: {page}
     });
 
     setIncidents([...incidents, ...response.data]);
-    setTotal(response.header['x-total-count']);
+    setTotal(response.headers['x-total-count']);
     setPage(page + 1);
     setLoading(false);
   }
@@ -59,7 +59,7 @@ export default function Incidents() {
       <Text style={styles.description}>Escolha um dos casos abaixo e salve o dia.</Text>
     
       <FlatList
-        data={[incidents]}
+        data={incidents}
         style={styles.incidentsLis}
         keyExtractor={incident => String(incident.id)}
         showsVerticalScrollIndicator={false}
