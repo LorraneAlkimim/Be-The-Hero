@@ -16,9 +16,9 @@
 
 Este projeto foi realizado visando auxiliar ONGs a terem visibilidade em seus casos, facilitando a obtenção de doações.
 
-Com o [Be The Hero](https://github.com/LorraneAlkimim/Be-The-Hero) as ONG's podem publicar seus casos pelo site, inserindo informações detalhadas sobre ele e um valor para doação.
+Com o [Be The Hero](https://github.com/LorraneAlkimim/Be-The-Hero) as ONG's podem publicar seus casos pelo site, inserindo informações detalhadas sobre eles e um valor para doação.
 
-Através do aplicativo mobile é possível visualizar todos os casos cadastrados e entrar em contato com a ONG pelo e-mail ou Whatsapp.
+Através do aplicativo mobile é possível visualizar todos os casos cadastrados e entrar em contato com a ONG por e-mail ou Whatsapp.
 
 <br/>
 
