@@ -13,6 +13,7 @@
 <br/>
 
 <h2 id="project"> 📌  Projeto </h2>
+
 Este projeto foi realizado visando auxiliar ONGs a terem visibilidade em seus casos, facilitando a obtenção de doações.
 
 Com o [Be The Hero](https://github.com/LorraneAlkimim/Be-The-Hero) as ONG's podem publicar seus casos pelo site, inserindo informações detalhadas sobre ele e um valor para doação.
@@ -34,11 +35,11 @@ Telas Web:
 
 Telas Mobile:
 
-<img src="./img/home-app.jfif" width="421" alt="Home Mobile"/>
+<img src="./img/home-app.jfif" width="410" alt="Home Mobile"/>
 
-<img src="./img/details-ong.jfif" width="421" alt="Details Mobile"/> &nbsp;
+<img src="./img/details-ong.jfif" width="410" alt="Details Mobile"/>
 
-<br/>
+&nbsp;
 
 <h2 id="techs"> 💻  Tecnologias </h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
