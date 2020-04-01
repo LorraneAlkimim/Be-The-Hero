@@ -35,9 +35,7 @@ Telas Web:
 
 Telas Mobile:
 
-<img src="./img/home-app.jfif" width="410" alt="Home Mobile"/>
-
-<img src="./img/details-ong.jfif" width="410" alt="Details Mobile"/>
+<img src="./img/home-app.jfif" width="421" alt="Home Mobile"/>  &nbsp; &nbsp; &nbsp; <img src="./img/details-ong.jfif" width="421" alt="Details Mobile"/>
 
 &nbsp;
 
